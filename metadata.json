@@ -1,0 +1,5 @@
+{
+  "name": "Zen Gomoku 50x50",
+  "description": "A professional-grade 50x50 Gomoku game featuring an AI opponent with three difficulty levels, responsive canvas-based rendering, and keyboard-driven navigation.",
+  "requestFramePermissions": []
+}
